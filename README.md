@@ -16,4 +16,4 @@ Usage:  ./client Echo Port Sever IP
 
 2 players, one thread per client.
 
-Writing the score in a file after the end
+And at the end it will also write the score in a file.
